@@ -1,0 +1,21 @@
+
+# Exclude uploaded assets and temporary files
+attached_assets
+example-macros/archives
+
+# Exclude Replit-specific files
+.replit
+replit.nix
+replit.md
+
+# Exclude development files
+.env
+.env.local
+*.log
+
+# Exclude design and documentation assets
+design-assets
+docs
+
+# Exclude scripts directory
+scripts-dir
